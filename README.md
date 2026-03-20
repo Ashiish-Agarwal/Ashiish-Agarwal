@@ -15,12 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🔨 **3+ years** shipping real products used by real users — not just tutorials
+- 🔨 **2+ years** shipping real products used by real users — not just tutorials
 - ⚡ Full-stack dev who also handles **Linux servers, Nginx, and deployment** end-to-end
 - 🚀 Built and launched **2 live products** independently: [Laxybio](https://laxybio.vercel.app/Aviinashagarwal) & [Deal Option](https://deal-options.netlify.app)
 - 🔐 Certified in **Cybersecurity** (Mastercard via Forage) and **ISRO** technical program
 - 📍 Based in India · Open to **remote, on-site, or relocation anywhere**
-- 💬 Ask me about: `Next.js` · `Linux/Nginx` · `Elixir` · `Shell scripting` · `API integration`
+- 💬 Ask me about: `Next.js` · `Linux/Nginx`  · `Shell scripting` · `API integration`
 
 ---
 
