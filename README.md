@@ -16,11 +16,11 @@
 ## 🧑‍💻 About Me
 
 - 🔨 **2+ years** shipping real products used by real users — not just tutorials
-- ⚡ Full-stack dev who also handles **Linux servers, Nginx, and deployment** end-to-end
+- ⚡ Full-stack dev 
 - 🚀 Built and launched **2 live products** independently: [Laxybio](https://laxybio.vercel.app/Aviinashagarwal) & [Deal Option](https://deal-options.netlify.app)
 - 🔐 Certified in **Cybersecurity** (Mastercard via Forage) and **ISRO** technical program
 - 📍 Based in India · Open to **remote, on-site, or relocation anywhere**
-- 💬 Ask me about: `Next.js` · `Linux/Nginx`  · `Shell scripting` · `API integration`
+- 💬 Ask me about: `java-script` · `Linux/Nginx`  · `Rust` · `API integration`
 
 ---
 
@@ -36,9 +36,8 @@
 
 ### Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![Elixir](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?style=flat&logo=bun&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ### Database & ORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -46,11 +45,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
 
-### DevOps & Linux
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ---
 
@@ -96,6 +91,6 @@
 
 I'm **actively looking for work** — full-time, part-time, freelance, or contract.
 
-If you need someone who can **build the frontend, wire up the backend, and deploy it on a Linux server** — that's me.
+If you need someone who can **build the frontend, wire up the backend** — that's me.
 
 📧 **aviinashagarwal@gmail.com** · 🌐 [laxybio.app](https://laxybio.vercel.app/Aviinashagarwal)
