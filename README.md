@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔨 **2+ years** shipping real products used by real users — not just tutorials
+- 🔨 **1+ years** shipping real products used by real users — not just tutorials
 - ⚡ Full-stack dev 
 - 🚀 Built and launched **2 live products** independently: [Laxybio](https://laxybio.vercel.app/Aviinashagarwal) & [Deal Option](https://deal-options.netlify.app)
 - 🔐 Certified in **Cybersecurity** (Mastercard via Forage) and **ISRO** technical program
